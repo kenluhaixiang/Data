@@ -1,0 +1,111 @@
+{
+  "schema_version": "ab_task_v2",
+  "product": "EB2967-网架刷",
+  "product_dir": "/Users/mac/Documents/GitHub/Data/SKU图片/EB2967-网架刷",
+  "task_type": "standard",
+  "sku_display_mode": "slot_specific",
+  "overwrite": false,
+  "skip_existing": true,
+  "fallback_providers": ["yunwu", "anyaigc", "nebula", "qiuqiu"],
+  "total_deadline_sec": 600,
+  "defaults": {
+    "sku_variants": ["EB2967"],
+    "reference_images": [
+      "2 (7).jpg",
+      "image_009.jpg",
+      "新建文件夹/image_001.jpg",
+      "新建文件夹/image_002.jpg",
+      "新建文件夹/image_003.jpg",
+      "新建文件夹/image_004.jpg",
+      "新建文件夹/image_005.jpg",
+      "新建文件夹/image_006.jpg",
+      "新建文件夹/image_007.jpg",
+      "新建文件夹/image_008.jpg"
+    ],
+    "product_lock": "Single compact grill mesh cleaning brush with white curved handle, hanging hole, built in scraper edge, grey coiled bristle head, about 17 cm long and about 3.5 cm wide brush head. Preserve the one brush, handle curve, grey wraparound bristles, scraper edge, and small kitchen cleaning tool scale.",
+    "category_text_style": "Kitchen cleaning style with white, charcoal, fresh green and bright yellow accents, bold block sans text, arrows, clean labels.",
+    "common_prompt": "Create one 1024x1024 ecommerce image as a single continuous realistic scene. Preserve the exact product identity: one compact grill mesh cleaning brush, white curved handle, hanging hole, built in scraper edge, grey coiled wraparound bristle head, small handheld scale, about 17 cm long and 3.5 cm brush head width. Use realistic kitchen, grill, wire rack, stove, sink rack, or cage rack cleaning scenes with crisp product visibility. Use bold high contrast kitchen cleaning typography, outlined or shadowed text, readable on mobile thumbnail, with white, charcoal, fresh green and bright yellow accents. Do not create a collage, grid, split-screen, comic panel, before-after panel, contact sheet, mosaic, or multiple separate photo frames. Do not add SKU codes, filenames, folder names, internal codes, brand logos, unsupported material claims, or certification claims."
+  },
+  "tasks": [
+    {
+      "name": "A-1.jpg",
+      "prompt": "Create a clean hero image of the grill mesh cleaning brush large and centered on a bright kitchen counter, white handle and grey bristles sharp. Text on image: \"Grill Brush\". Use bold block sans typography with white fill, charcoal outline and green accent shadow."
+    },
+    {
+      "name": "A-2.jpg",
+      "prompt": "Show the brush scrubbing greasy barbecue grill rods, bristles wrapped around the metal bars, hand holding the curved handle. Text on image: \"Grease Gone\". Add yellow corner block and underline arrow, bold black and yellow text with thick outline."
+    },
+    {
+      "name": "A-3.jpg",
+      "prompt": "Create a strong feature hero showing handle, scraper edge, hanging hole and grey bristle head arranged as one product view on clean counter. Text on image: \"3 In 1\". Use green labels, small arrows, geometric border and high contrast outlined text."
+    },
+    {
+      "name": "A-4.jpg",
+      "prompt": "Story scene: a hand cleans a kitchen cooling rack after cooking, crumbs and grease near the rods, brush head reaching between wires. Text on image: \"Deep Clean\". Use fresh green label, bright kitchen light and bold shadowed text."
+    },
+    {
+      "name": "A-5.jpg",
+      "prompt": "Create a close macro hero of the grey coiled bristles wrapping around wire rods, showing how the brush reaches narrow gaps. Text on image: \"Wraps Rods\". Use charcoal background edge, green arrow and bold white text with black outline."
+    },
+    {
+      "name": "A-6.jpg",
+      "prompt": "Show the compact brush beside a drawer organizer and hanging hook to emphasize easy storage and portable size, one product only. Text on image: \"Easy Store\". Add green frame, yellow hook icon and bold clean block text with hard shadow."
+    },
+    {
+      "name": "A-7.jpg",
+      "prompt": "Story scene: a person cleans a bird cage wire rack on a table, brush touching the vertical bars, cage visible but product central. Text on image: \"Cage Ready\". Use bright home cleaning lighting, green accent tag and outlined sans text."
+    },
+    {
+      "name": "A-8.jpg",
+      "prompt": "Create a high impact hero with the scraper edge loosening brown grease on a stove or grill edge, brush angled forward. Text on image: \"Scrape Tough\". Use yellow warning style banner, black outline text and one arrow to the scraper."
+    },
+    {
+      "name": "A-9.jpg",
+      "prompt": "Story scene: the brush cleans a sink rack after washing dishes, water drops and metal rods visible, hand grip comfortable. Text on image: \"Rack Rescue\". Use clean green and white kitchen style, bold text with soft shadow."
+    },
+    {
+      "name": "A-10.jpg",
+      "prompt": "Create a final purchase hero showing the brush cleaning grill mesh with sparkling cleaned rods behind it, product large and clear. Text on image: \"Clean Faster\". Use yellow burst, green border, underline arrow and bold high contrast outlined typography."
+    },
+    {
+      "name": "B-1.jpg",
+      "prompt": "B style lock: white kitchen background, charcoal primary text, green accent label, yellow arrow, bold block sans font, 6 percent margin, bright practical lighting. Show the full grill mesh brush structure clearly. Text on image: \"Brush Design\"."
+    },
+    {
+      "name": "B-2.jpg",
+      "prompt": "Story scene under the same B style lock: hand grips the curved handle and pushes the grey bristles between wire rack rods. Text on image: \"Easy Grip\". Use one yellow arrow following the cleaning motion, product large and sharp."
+    },
+    {
+      "name": "B-3.jpg",
+      "prompt": "Under the same B style lock, show grey coiled bristles wrapping around round rack bars for contact explanation, no split panels. Text on image: \"Around Rods\". Use one green label and one arrow pointing to the wrapped bristle contact."
+    },
+    {
+      "name": "B-4.jpg",
+      "prompt": "Under the same B style lock, show the brush beside a simple ruler style scale mark, approximate 17 cm length and 3.5 cm brush head width. Text on image: \"Compact Size\". Keep one product only and clean white background."
+    },
+    {
+      "name": "B-5.jpg",
+      "prompt": "Under the same B style lock, create a close detail view of the scraper edge, hanging hole and grey bristle head, no material claims. Text on image: \"Useful Details\". Use small green labels and two thin yellow arrows."
+    },
+    {
+      "name": "B-6.jpg",
+      "prompt": "Story scene under the same B style lock: a greasy grill rack becomes visibly cleaner as the brush passes in one continuous realistic scene, not split screen. Text on image: \"Cleaner Rack\". Keep the product in hand and central."
+    },
+    {
+      "name": "B-7.jpg",
+      "prompt": "Story scene under the same B style lock: show the brush used on barbecue grill rods, sink rack and cage wire in one continuous countertop arrangement. Text on image: \"Multi Surface\". Use simple green icons and avoid separate photo panels."
+    },
+    {
+      "name": "B-8.jpg",
+      "prompt": "Under the same B style lock, show package contents as one grill mesh cleaning brush on a clean counter with no extra accessories. Text on image: \"One Brush\". Add a neat green content label and soft shadow under the product."
+    },
+    {
+      "name": "B-9.jpg",
+      "prompt": "Story scene under the same B style lock: after cleaning, the brush hangs neatly on a kitchen hook near a rack, water drops below. Text on image: \"Easy Hang\". Keep storage feeling practical with bright kitchen lighting."
+    },
+    {
+      "name": "B-10.jpg",
+      "prompt": "Under the same B style lock, create a summary image with the brush, grill rods, wire rack and stove edge arranged naturally on one counter. Text on image: \"Clean More\". Use green border, yellow arrow and bold readable text."
+    }
+  ]
+}

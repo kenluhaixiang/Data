@@ -1,0 +1,42 @@
+{
+  "schema_version": "ab_task_v2",
+  "product": "EB2967-网架刷",
+  "product_dir": "/Users/mac/Documents/GitHub/Data/SKU图片/EB2967-网架刷",
+  "task_type": "standard",
+  "sku_display_mode": "slot_specific",
+  "overwrite": false,
+  "skip_existing": true,
+  "fallback_providers": [
+    "yunwu",
+    "anyaigc",
+    "nebula",
+    "qiuqiu"
+  ],
+  "total_deadline_sec": 600,
+  "defaults": {
+    "sku_variants": [
+      "EB2967"
+    ],
+    "reference_images": [
+      "2 (7).jpg",
+      "image_009.jpg",
+      "新建文件夹/image_001.jpg",
+      "新建文件夹/image_002.jpg",
+      "新建文件夹/image_003.jpg",
+      "新建文件夹/image_004.jpg",
+      "新建文件夹/image_005.jpg",
+      "新建文件夹/image_006.jpg",
+      "新建文件夹/image_007.jpg",
+      "新建文件夹/image_008.jpg"
+    ],
+    "product_lock": "Single compact grill mesh cleaning brush with white curved handle, hanging hole, built in scraper edge, grey coiled bristle head, about 17 cm long and about 3.5 cm wide brush head. Preserve the one brush, handle curve, grey wraparound bristles, scraper edge, and small kitchen cleaning tool scale.",
+    "category_text_style": "Kitchen cleaning style with white, charcoal, fresh green and bright yellow accents, bold block sans text, arrows, clean labels.",
+    "common_prompt": "Create one 1024x1024 ecommerce image as a single continuous realistic scene. Preserve the exact product identity: one compact grill mesh cleaning brush, white curved handle, hanging hole, built in scraper edge, grey coiled wraparound bristle head, small handheld scale, about 17 cm long and 3.5 cm brush head width. Use realistic kitchen, grill, wire rack, stove, sink rack, or cage rack cleaning scenes with crisp product visibility. Use bold high contrast kitchen cleaning typography, outlined or shadowed text, readable on mobile thumbnail, with white, charcoal, fresh green and bright yellow accents. Do not create a collage, grid, split-screen, comic panel, before-after panel, contact sheet, mosaic, or multiple separate photo frames. Do not add SKU codes, filenames, folder names, internal codes, brand logos, unsupported material claims, or certification claims."
+  },
+  "tasks": [
+    {
+      "name": "B-8.jpg",
+      "prompt": "Under the same B style lock, show package contents as one grill mesh cleaning brush on a clean counter with no extra accessories. Text on image: \"One Brush\". Add a neat green content label and soft shadow under the product."
+    }
+  ]
+}
